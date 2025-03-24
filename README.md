@@ -1,4 +1,4 @@
-##⚠️ Notes
+⚠️ Notes
 Room numbers cannot be shared across different genders.
 
 All inputs are taken via Zenity's graphical prompts.
