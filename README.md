@@ -1,4 +1,9 @@
+##⚠️ Notes
+Room numbers cannot be shared across different genders.
 
+All inputs are taken via Zenity's graphical prompts.
+
+Edits and deletions are performed by searching using either name or room number.
 ## 🧰 Features
 
 - ✅ Add a new resident record  
@@ -27,9 +32,4 @@ sudo dnf install zenity
 # Arch Linux
 sudo pacman -S zenity
 
-#⚠️ Notes
-Room numbers cannot be shared across different genders.
 
-All inputs are taken via Zenity's graphical prompts.
-
-Edits and deletions are performed by searching using either name or room number.
